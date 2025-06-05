@@ -1,0 +1,6 @@
+nodered-data/.config.nodes.json
+nodered-data/.config.nodes.json.backup
+nodered-data/lib
+nodered-data/.npm
+nodered-data/node_modules
+.env
